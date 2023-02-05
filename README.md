@@ -9,7 +9,7 @@ Compilation
 
 
 
-Installations
+## Installations
 Install C language to your local machine,such as GCC or Clang. so that code can be run and can be seen what it tyring to do.
 
 Compilation
