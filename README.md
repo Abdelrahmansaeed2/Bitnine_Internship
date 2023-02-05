@@ -26,13 +26,13 @@ Explain the differences (advantages, disadvantages) between the 3.
 Must be written in C.
 
 ## Table of contents:
--Requirements
--Installations
--Compilation
--Recursive
--Iterative
--Dynamic Programming
--Code Summary
+- Requirements
+- Installations
+- Compilation
+- Recursive
+- Iterative
+- Dynamic Programming
+- Code Summary
 
 ## Requirements
 This module requires the following modules:
